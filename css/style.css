@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+  
+.login_header{
+    height: 10vh;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    color: crimson;
+}
+.log{
+    background-color: #06283D;
+height: 90vh;
+width: 100%;
+display: flex !important;
+justify-items: center !important;
+align-items: center!important; 
+
+
+}
+.login{
+    width: 40%;
+    height: 40vh;
+    background-color: #A4EBF3;
+    border-radius: 15px !important;
+}
+
+.inp{
+    margin: 20px;
+}
+.register{
+    margin-top: 10vh;
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+ 
+}
+
+.register_col{
+    height: 55vh;
+    width: 40%;
+    background-color: #A4EBF3;
+}
+
+.nav_li{
+    background-color:crimson;
+}
+
